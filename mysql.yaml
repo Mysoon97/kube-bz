@@ -57,5 +57,8 @@ spec:
     repoURL: https://charts.bitnami.com/bitnami
     targetRevision: 9.7.*
   syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
     syncOptions:
       - CreateNamespace=true
