@@ -5703,3 +5703,4 @@ status:
         repoURL: https://charts.bitnami.com/bitnami
         targetRevision: 9.7.1
     revision: 9.7.1
+    status: Synced
